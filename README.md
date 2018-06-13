@@ -35,7 +35,19 @@ o In order to solve the Tower of Hanoi puzzle, the following rules are to be obe
 - No larger disk may be placed on top of a smaller disk.
 
 > **Project Output :**
-> ![Input Section](https://github.com/somrajchowdhury/OpenGLProjects/blob/master/Tower%20of%20Hanoi/Output/TowerOfHanoi1.gif "Input number of Disks")
-> ![Output Section](https://github.com/somrajchowdhury/OpenGLProjects/blob/master/Tower%20of%20Hanoi/Output/TowerOfHanoi2.gif "Solving the puzzle with mouse click")
+
+<div align="center">
+  <a href="https://github.com/somrajchowdhury/OpenGLProjects/blob/master/Tower%20of%20Hanoi/">
+    <img src="https://github.com/somrajchowdhury/OpenGLProjects/blob/master/Tower%20of%20Hanoi/Output/TowerOfHanoi1.gif"
+      alt="Input number of Disks" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/somrajchowdhury/OpenGLProjects/blob/master/Tower%20of%20Hanoi/">
+      <img src="https://github.com/somrajchowdhury/OpenGLProjects/blob/master/Tower%20of%20Hanoi/Output/TowerOfHanoi2.gif"
+        alt="Solving the puzzle with mouse click" />
+  </a>
+</div>
 
 [(Back to top)](#table-of-contents)

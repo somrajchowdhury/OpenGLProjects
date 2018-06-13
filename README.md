@@ -1,4 +1,4 @@
-# OpenGLProjects
+<h1 align="center">OpenGL Projects</h1>
 
 > All the projects uploaded are tested and compiled on Microsoft Visual Studio 2010 (MVS2010).
 >
@@ -8,7 +8,7 @@
 >
 > Here, i have uploaded the source code in `.txt` format, so that you can easily run this on any version.
 
-# Table of Contents
+## Table of Contents
 
 -[Tower Of Hanoi Puzzle](#tower-of-hanoi)
 
@@ -34,4 +34,8 @@ o In order to solve the Tower of Hanoi puzzle, the following rules are to be obe
 
 - No larger disk may be placed on top of a smaller disk.
 
-> **Project Output: **
+> **Project Output :**
+> ![Input Section](https://github.com/somrajchowdhury/OpenGLProjects/blob/master/Tower%20of%20Hanoi/Output/TowerOfHanoi1.gif "Input number of Disks")
+> ![Output Section](https://github.com/somrajchowdhury/OpenGLProjects/blob/master/Tower%20of%20Hanoi/Output/TowerOfHanoi2.gif "Solving the puzzle with mouse click")
+
+[(Back to top)](#table-of-contents)
